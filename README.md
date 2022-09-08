@@ -41,6 +41,49 @@ Link to [Click here to knowin more AboutMe](AboutMe.md)
 # Quotes I like:
  > The way to get started is to quit talking and begin doing.
    *Walt Disney*
-   
+
  > If life were predictable it would cease to be life, and be without flavor.
    *Eleanor Roosevelt*
+
+---
+
+# CODE SNIPPET
+
+> Closing Tag Is Being Outputted To Early In A While Loop - PHP
+
+[LINK STACK OVERFLOW](https://stackoverflow.com/questions/73642521/create-a-new-array-based-on-values-in-original-array-using-php)
+
+```
+$MainArray = Array
+(
+    [0] => Array
+        (
+            [Job_Name] => WXYZ
+            [Quantity] => 1000
+            [Machine_Name] => Machine1
+            [Start_Date] => 2014-07-30 00:00:00
+            [Completion_Date] => 2014-08-02 00:00:00
+            [Labor] => 4
+        )
+    [1] => Array
+        (
+            [Job_Name] => ABCD
+            [Quantity] => 1500
+            [Machine_Name] => Machine2
+            [Start_Date] => 2014-08-08 00:00:00
+            [Completion_Date] => 2014-08-14 00:00:00
+            [Labor] => 2
+        )
+    [2] => Array
+        (
+            [Job_Name] => BCDA
+            [Quantity] => 1200
+            [Machine_Name] => Machine1
+            [Start_Date] => 2014-08-02 00:00:00
+            [Completion_Date] => 2014-08-07 00:00:00
+            [Labor] => 1
+        )
+ )
+```
+
+[LINK TO CODE](https://css-tricks.com/snippets/php/post-validation-loop/#aa-notes-about-code)
